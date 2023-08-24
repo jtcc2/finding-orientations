@@ -1,6 +1,6 @@
 # Algorithms for Finding Orientations of Supersingular Elliptic Curves and Quaternion Orders.
 
-This code accompanies the paper "Finding Orientations of Supersingular Elliptic Curves and Quaternion Orders". See the paper for the list of authors.  
+This code accompanies the paper "Finding Orientations of Supersingular Elliptic Curves and Quaternion Orders", available on [arXiv](https://arxiv.org/abs/2308.11539) and [eprint](https://eprint.iacr.org/2023/1268). See the paper for the list of authors.  
 
 It includes the following:
 
